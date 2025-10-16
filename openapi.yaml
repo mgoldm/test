@@ -42,7 +42,7 @@ components:
       properties:
         id:
           type: integer
-          example: 3
+          example: 34
         name:
           type: string
           example: John Doe
